@@ -13,8 +13,22 @@
 - **Decision-Making Insights:** Leveraging analytical results for inventory optimization and supply chain efficiency.
 - **Python Programming:** Applying advanced Python techniques for data analysis, visualization, and modeling.
 - **Jupyter Notebook:** Documenting and performing all tasks efficiently within Jupyter Notebook.
+## Model Comparison: MAPE Scores
+- The table below provides an overview of the performance of various forecasting models, summarized through their Mean Absolute Percentage Error (MAPE) scores. The comparison highlights the ranking and effectiveness of each model in predicting sales.
 
 
+| **Model**   | **MAPE** | **Rank** | **Best/Worst** |
+|-------------|----------|----------|----------------|
+| ARIMA       | 0.1976   | 1        | Best           |
+| Prophet     | 0.2163   | 2        |                |
+| SARIMA      | 0.2327   | 3        |                |
+| LSTM        | 0.2345   | 4        | Worst          |  
+
+## RESULT:
+
+- The ARIMA model was selected as the best-performing model for forecasting pizza sales, achieving a Mean Absolute Percentage Error (MAPE) of 0.1976. This low error rate demonstrates the model's accuracy and reliability in predicting sales trends. The model's hyperparameters were optimized using AutoARIMA, which automatically identified the best-fit values for p (AR order), d (differencing order), and q (MA order) to ensure optimal performance and stationarity of the time series data.
+
+- By leveraging this fine-tuned ARIMA model, the project successfully forecasted future sales with high precision, enabling the creation of efficient purchase orders and accurate ingredient planning. This approach minimizes waste, prevents stockouts, and streamlines the inventory management process.
 
 
 

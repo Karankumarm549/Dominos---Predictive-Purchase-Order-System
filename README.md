@@ -17,12 +17,12 @@
 - The table below provides an overview of the performance of various forecasting models, summarized through their Mean Absolute Percentage Error (MAPE) scores. The comparison highlights the ranking and effectiveness of each model in predicting sales.
 
 
-| **Model**   | **MAPE** | **Rank** | **Best/Worst** |
-|-------------|----------|----------|----------------|
-| ARIMA       | 0.1976   | 1        | Best           |
-| Prophet     | 0.2163   | 2        |                |
-| SARIMA      | 0.2327   | 3        |                |
-| LSTM        | 0.2345   | 4        | Worst          |  
+   | **Model**   | **MAPE** | **Rank** | **Best/Worst** |
+   |-------------|----------|----------|----------------|
+   | ARIMA       | 0.1976   | 1        | Best           |
+   | Prophet     | 0.2163   | 2        |                |
+   | SARIMA      | 0.2327   | 3        |                |
+   | LSTM        | 0.2345   | 4        | Worst          |  
 
 ## RESULT:
 

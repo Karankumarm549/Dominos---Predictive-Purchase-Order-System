@@ -23,7 +23,12 @@
    | Prophet     | 0.2163   | 2        |                |
    | SARIMA      | 0.2327   | 3        |                |
    | LSTM        | 0.2345   | 4        |     Worst      |
-    
+
+## ARIMA Model Forecasting:
+This section outlines the process of utilizing the best-performing ARIMA model to forecast future sales effectively:
+
+- **Model Loading:** The ARIMA model, previously trained and saved as best_arima_model.pkl, is loaded to generate accurate sales predictions.
+- **Sales Forecasting:** Using the loaded model, sales are forecasted for the next 7 days (n_forecast = 7).
 
 ## RESULT:
 

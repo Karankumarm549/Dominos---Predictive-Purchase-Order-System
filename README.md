@@ -1,4 +1,4 @@
-# Dominos-Predictive Purchase Order System
+# DOMINOS-PREDICTIVE PURCHASE ORDER SYSTEM
 ## DOMAIN:
 - Food Service Industry
 ## INTRODUCTION:
@@ -13,7 +13,7 @@
 - **Decision-Making Insights:** Leveraging analytical results for inventory optimization and supply chain efficiency.
 - **Python Programming:** Applying advanced Python techniques for data analysis, visualization, and modeling.
 - **Jupyter Notebook:** Documenting and performing all tasks efficiently within Jupyter Notebook.
-## Model Comparison: MAPE Scores
+## MODEL COMPARISON: MAPE SCORES
 - The table below provides an overview of the performance of various forecasting models, summarized through their Mean Absolute Percentage Error (MAPE) scores. The comparison highlights the ranking and effectiveness of each model in predicting sales.
 
 
@@ -24,7 +24,7 @@
    | SARIMA      | 0.2327   | 3        |                |
    | LSTM        | 0.2345   | 4        |     Worst      |
 
-## ARIMA Model Forecasting:
+## ARIMA MODEL FORECASTING:
 This section outlines the process of utilizing the best-performing ARIMA model to forecast future sales effectively:
 
 - **Model Loading:** The ARIMA model, previously trained and saved as best_arima_model.pkl, is loaded to generate accurate sales predictions.

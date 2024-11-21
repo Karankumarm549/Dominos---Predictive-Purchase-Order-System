@@ -19,10 +19,10 @@
 
    | **Model**   | **MAPE** | **Rank** | **Best/Worst** |
    |-------------|----------|----------|----------------|
-   | ARIMA       | 0.1976   | 1        | Best           |
+   | ARIMA       | 0.1976   | 1        |     Best       |
    | Prophet     | 0.2163   | 2        |                |
    | SARIMA      | 0.2327   | 3        |                |
-   | LSTM        | 0.2345   | 4        | Worst          |  
+   | LSTM        | 0.2345   | 4        |     Worst      |  
 
 ## RESULT:
 

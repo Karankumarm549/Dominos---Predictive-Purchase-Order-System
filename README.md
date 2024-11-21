@@ -23,10 +23,7 @@
    | Prophet     | 0.2163   | 2        |                |
    | SARIMA      | 0.2327   | 3        |                |
    | LSTM        | 0.2345   | 4        |     Worst      |
-  
-## Scores Visualization:
-- Generated bar charts to compare MAPE scores across different models for quick performance assessment.
-  ![Alt text]("C:\Users\M Karan kumar\OneDrive\Pictures\Screenshots\Screenshot 2024-11-21 095423.png")
+    
 
 ## RESULT:
 

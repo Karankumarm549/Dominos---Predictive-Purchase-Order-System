@@ -16,7 +16,7 @@
 
 ## EDA-REPORT:
 **Exploratory Data Analysis (EDA)** discovers patterns, relationships, and anomalies in the data.
--**Top-Selling Pizzas**
+- **Top-Selling Pizzas**
      - This visualization highlights the top 10 most popular pizzas based on total sales.
      - It helps identify which pizzas are in highest demand among customers.
      - The y-axis represents different pizza names, while the x-axis shows the quantity sold.

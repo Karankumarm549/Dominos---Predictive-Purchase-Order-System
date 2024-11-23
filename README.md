@@ -13,6 +13,13 @@
 - **Decision-Making Insights:** Leveraging analytical results for inventory optimization and supply chain efficiency.
 - **Python Programming:** Applying advanced Python techniques for data analysis, visualization, and modeling.
 - **Jupyter Notebook:** Documenting and performing all tasks efficiently within Jupyter Notebook.
+
+## EDA-REPORT:
+**Exploratory Data Analysis (EDA)** discovers patterns, relationships, and anomalies in the data.
+-**Top-Selling Pizzas**
+     - This visualization highlights the top 10 most popular pizzas based on total sales.
+     - It helps identify which pizzas are in highest demand among customers.
+     - The y-axis represents different pizza names, while the x-axis shows the quantity sold.
 ## MODEL COMPARISON: MAPE SCORES
 - The table below provides an overview of the performance of various forecasting models, summarized through their Mean Absolute Percentage Error (MAPE) scores. The comparison highlights the ranking and effectiveness of each model in predicting sales.
 

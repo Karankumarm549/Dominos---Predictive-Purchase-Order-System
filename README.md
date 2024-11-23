@@ -22,7 +22,7 @@
      - The y-axis represents different pizza names, while the x-axis shows the quantity sold.
  ![Screenshot](D1.png)
 - **Distribution of Pizza Categories:**
-      -This visualization displays the distribution of pizza orders across various categories (e.g., vegetarian, meat-lovers).
+      - This visualization displays the distribution of pizza orders across various categories (e.g., vegetarian, meat-lovers).
       - It provides insights into customer preferences and trends by category.
       - The y-axis represents different pizza categories, while the x-axis shows the number of orders for each category.
    ![Screenshot](D3.png)
@@ -31,11 +31,11 @@
         - It helps identify trends, seasonality, and sales spikes throughout the observed period.
         - The line plot illustrates the quantity of pizzas sold each day.
   ![Screenshot](D4.png)
-  - **Sales by Day of the Week**
+- **Sales by Day of the Week**
     - This visualization aggregates total sales by day of the week to identify which days generate the most revenue.
     - The data is grouped by day_of_week, summing the total_price for each day.
     - The x-axis represents the days of the week (ordered from Monday to Sunday), while the y-axis shows the total sales for each day.
-          - The bar plot helps pinpoint trends in customer purchasing behavior throughout the week.
+    - The bar plot helps pinpoint trends in customer purchasing behavior throughout the week.
  ![Screenshot](D2.png)
 
 ## MODEL COMPARISON: MAPE SCORES
